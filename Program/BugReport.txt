@@ -1,0 +1,5 @@
+--Bug--
+Does not at times print out the wage, bank or hand value (shows a white rectangle rather than the number).
+Screen also becomes white (not all the time) or cards dont appear.
+
+- Only way to fix it is to minimize applet window when occurs, and open it again.
